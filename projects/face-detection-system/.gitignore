@@ -1,0 +1,22 @@
+
+# Personal face images
+dataset/
+processed/
+
+# Trained face recognition model
+trainer.yml
+
+# Attendance records and personal student data
+attendance.csv
+students.csv
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code settings
+.vscode/

@@ -20,4 +20,4 @@ I am a Computer Science Engineering student interested in software development, 
 
 ## Connect With Me
 - GitHub: https://github.com/Kritikaaaa005
-- LinkedIn: https://www.linkedin.com/in/kritika-gautam-4b2a79298?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: https://www.linkedin.com/in/kritika-gautam-4b2a79298?utm_source=share_via&utm_content=profile&utm_medium=member_androids
